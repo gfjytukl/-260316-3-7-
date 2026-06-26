@@ -1,5 +1,5 @@
 闪学it尚硅谷大模型极速版同步班260316【武汉极速班3-7月】
-- [大型资源站xingkeit.top](http://xingkeit.top/)
+- [大型资源站shanxueit.com](http://shanxueit.com/)
 
 用极速班闭环学习法，把大模型学习融入日常烟火里
 
